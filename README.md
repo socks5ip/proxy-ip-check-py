@@ -4,7 +4,7 @@
 
 **Zero dependencies. No API key. Works from a single function call or the command line.**
 
-This is the Python port of the npm package [`proxy-ip-check`](https://www.npmjs.com/package/proxy-ip-check) — same behaviour, same data sources.
+This is the Python port of the npm package [`proxy-ip-check`](https://www.npmjs.com/package/proxy-ip-check) (JS source: [proxy-ip-check](https://github.com/socks5ip/proxy-ip-check)) — same behaviour, same data sources.
 
 ---
 
@@ -99,7 +99,7 @@ Please respect the free-tier rate limit. For bulk validation, add a throttle (e.
 - **Price comparison (20+ providers)**: https://socks5ip.com.cn/jiagezhongxin/
 - **Free IP quality checker (web)**: https://socks5ip.com.cn/ip-check-center/
 - **Dataset: proxy IP pricing in China (CSV/JSON)**: https://github.com/socks5ip/proxy-ip-pricing
-- **Source code**: https://github.com/socks5ip/proxy-ip-check
+- **Source code (this Python package)**: https://github.com/socks5ip/proxy-ip-check-py
 - **npm version**: https://www.npmjs.com/package/proxy-ip-check
 
 ## License
