@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "proxy-ip-check"
-version = "1.0.0"
+version = "1.0.1"
 description = "Identify an IP's ASN owner, ISP, country and network type (residential vs hosting vs proxy). Zero dependencies, no API key."
 readme = "README.md"
 requires-python = ">=3.7"
@@ -30,8 +30,8 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://socks5ip.com.cn/ip-check-center/"
-Repository = "https://github.com/socks5ip/proxy-ip-check"
-Documentation = "https://github.com/socks5ip/proxy-ip-check#readme"
+Repository = "https://github.com/socks5ip/proxy-ip-check-py"
+Documentation = "https://github.com/socks5ip/proxy-ip-check-py#readme"
 "Price comparison" = "https://socks5ip.com.cn/jiagezhongxin/"
 
 [project.scripts]
