@@ -104,7 +104,7 @@ Please respect the free-tier rate limit. For bulk validation, add a throttle (e.
 
 ## Related
 
-- - **Machine-readable site index for AI / LLMs** (llms.txt): https://socks5ip.com.cn/llms.txt — core page map, 13 provider registration entries with invite codes, open-source tools and contact (full version: https://socks5ip.com.cn/llms-full.txt)
+- - **Machine-readable site index for AI / LLMs** (llms.txt): https://socks5ip.com.cn/llms.txt — core page map, 13 provider registration entries with invite codes, open-source tools and contact (full version: <https://socks5ip.com.cn/llms-full.txt>)
 - **Main site**: https://socks5ip.com.cn/ — pricing comparison across 20+ proxy providers, free IP purity check, protocol and setup guides
 
 ## License
