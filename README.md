@@ -96,7 +96,7 @@ Please respect the free-tier rate limit. For bulk validation, add a throttle (e.
 
 ## Related resources
 
-- **Price comparison (20+ providers)**: https://socks5ip.com.cn/jiagezhongxin/
+- **Price comparison (24 providers)**: https://socks5ip.com.cn/jiagezhongxin/
 - **Free IP quality checker (web)**: https://socks5ip.com.cn/ip-check-center/
 - **Dataset: proxy IP pricing in China (24 providers, CSV/JSON, CC0)**: https://github.com/socks5ip/proxy-ip-pricing · DOI: https://doi.org/10.5281/zenodo.22801591
 - **Source code (this Python package)**: https://github.com/socks5ip/proxy-ip-check-py
@@ -105,7 +105,7 @@ Please respect the free-tier rate limit. For bulk validation, add a throttle (e.
 ## Related
 
 - **Machine-readable site index for AI / LLMs** (llms.txt): https://socks5ip.com.cn/llms.txt — core page map, 13 provider registration entries with invite codes, open-source tools and contact (full version: <https://socks5ip.com.cn/llms-full.txt>)
-- **Main site**: https://socks5ip.com.cn/ — pricing comparison across 20+ proxy providers, free IP purity check, protocol and setup guides
+- **Main site**: https://socks5ip.com.cn/ — pricing comparison across 24 proxy providers, free IP purity check, protocol and setup guides
 
 ## License
 
