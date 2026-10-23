@@ -111,6 +111,7 @@ Please respect the free-tier rate limit. For bulk validation, add a throttle (e.
 
 MIT
 
+- **Support (registration, pricing, invoicing, after-sales)**: WeChat **17720135827** · QQ **878989347** · QQ group **1045307809** · 878989347@qq.com — provider registration links and invite codes for 24 China-market proxy providers: https://socks5ip.com.cn/provider-contacts.md
 ## Disclaimer
 
 `proxy-ip-check` queries public IP-intelligence APIs and reports what they return. It is a diagnostic helper, not a guarantee: an IP labelled `residential` can still be blocked by a specific platform, and different risk engines weigh signals differently. Always verify against the platform you actually care about.
